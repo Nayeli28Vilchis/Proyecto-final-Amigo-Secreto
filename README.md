@@ -1,3 +1,4 @@
 <h1 align="center"> Proyecto final Amigo Secreto </h1> 
 
-En proceso
+Proyecto para agregar amigos y sortear un amigo secreto usando HTML, CSS y JavaScript.
+
