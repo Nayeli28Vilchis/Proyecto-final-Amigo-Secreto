@@ -18,5 +18,8 @@ Permite añadir amigos a una lista y sortear uno de manera aleatoria.
 4. Haz clic en **Sortear amigo** para conocer al elegido.
 
 
-Nayeli Vilchis 
+
+
+
+**Nayeli Vilchis**
 
