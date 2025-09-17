@@ -2,8 +2,6 @@
 
 Proyecto para agregar amigos y sortear un amigo secreto usando HTML, CSS y JavaScript.
 
-Proyecto Final "Amigo Secreto"
-
 Este proyecto es una aplicación web sencilla para organizar un **juego de Amigo Secreto**.  
 Permite añadir amigos a una lista y sortear uno de manera aleatoria.  
 
